@@ -20,7 +20,7 @@
 
 
   #define DEBUG_INIT(speed) Serial.begin(speed)
-  #define DEBUG_PRINTLN(txt) Serial.print(txt)
+  #define DEBUG_PRINTLN(txt) Serial.println(txt)
   #define DEBUG_PRINTLN_VALUE(txt, val) Serial.print(txt); Serial.print(": "); Serial.println(val)
   #define DEBUG_WAIT(txt, condition) if (condition) DebugWait(txt)
 #else

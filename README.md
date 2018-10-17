@@ -5,5 +5,5 @@ Die Arduino - Sketches __smart_debug1__ bis __smart_debug7__ entsprechen den ver
 
 Zusätzliche Informationen sind auf der Webseite [__Die Hobbyelektroniker - Community__](https://community.hobbyelektroniker.ch) zu finden.
 
-__Das Video und die Informationen auf der Webseite werden erst am 14.09.2018 um 19:00 zur Verfügung stehen!__
+
 
